@@ -21,8 +21,10 @@
     "@vue/test-utils": "^2.4.5",
     "cypress": "^13.7.2",
     "jsdom": "^24.0.0",
+    "prettier": "^2.5.1",
     "start-server-and-test": "^2.0.3",
     "vite": "^5.2.8",
+    "vite-plugin-prettier": "^0.0.6",
     "vitest": "^1.4.0"
   }
 }
